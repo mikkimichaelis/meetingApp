@@ -1,6 +1,6 @@
-The Misfits App is an idea for an app specifically tailored to help simplify the administrative duties of a Narcotics Anonymous meeting. This will be an Open Source development effort inviting the recovery community input as well as community development. The whole point of Open Source is to create software that is 100% transparent to the community for outside scrunity, approval, and acceptance. The app will be free for use and the source code will freely licensed for use by anybody.
+The Meeting App is an idea for an app specifically tailored to help simplify the administrative duties of a Narcotics Anonymous meeting. This will be an Open Source development effort inviting the recovery community input as well as community development. The whole point of Open Source is to create software that is 100% transparent to the community for outside scrunity, approval, and acceptance. The app will be free for use and the source code will freely licensed for use by anybody.
 
-Just like the early NA pioneers created our literature from a group conscience and collective effort, we need to start creating software for our online fellowship, the future fellowship.  This app will be for the Misfits and by the Misfits. The long-term vision is to share this app for free to the entire recovery community.
+Just like the early NA pioneers created our literature from a group conscience and collective effort, we need to start creating software for our online fellowship, the future fellowship. The long-term vision is to share this app for free to the entire recovery community.
 
 Meeting App
 
