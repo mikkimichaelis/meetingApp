@@ -10,6 +10,4 @@ I see this app as helpping with the scheduling and cooridination of meeting host
 
 The app will be run on device by all members of the meeting's trusted servants. Open service slots will be presented to to the user allowing them to easily accept a service slot. If a trusted servant relinquishes a slot it will become available to others to accept. Push notifications will be used to notify trusted servants of pending open slots that need to be filled for continued meeting operation.
 
-In addition, the app will track a trusted servant's performance allowing acknowledgment of the most active and reliable trusted servants as well as those that consistently undeperform or put stress on normal meeting operations  by relinquishing their accepted slots late. A monthly business meeting report will be generated allowing a group conscience decision for how to appropriately handle underperforming trusted servants on an individual and loving manner without the need for a meeting to define harsh meeting police guidelines for underperforming trusted servant punishment.
-
-The app will also contain a secured Meeting Administrative section that will allowing the configuration of the meetingHost App.
+In addition, the app will track a trusted servant's performance allowing acknowledgment of the most active and reliable trusted servants.
